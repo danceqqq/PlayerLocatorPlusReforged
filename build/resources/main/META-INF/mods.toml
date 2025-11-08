@@ -3,22 +3,22 @@ loaderVersion="[47,)"
 license="GPL-3.0-or-later"
 
 [[mods]]
-modId="playerlocatorplus"
-version="1.0.0"
+modId="playerlocatorplusreforged"
+version="1.0.1"
 displayName="Player Locator Plus Reforged"
 author="MyAngel"
 description='''
 Reimplementation of Player Locator Plus for Forge 1.20.1.
 '''
 
-[[dependencies.playerlocatorplus]]
+[[dependencies.playerlocatorplusreforged]]
 modId="forge"
 mandatory=true
 versionRange="[47,)"
 ordering="NONE"
 side="BOTH"
 
-[[dependencies.playerlocatorplus]]
+[[dependencies.playerlocatorplusreforged]]
 modId="minecraft"
 mandatory=true
 versionRange="[1.20.1,1.21)"

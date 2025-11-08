@@ -20,7 +20,7 @@ import com.mojang.logging.LogUtils;
 
 @Mod(PlayerLocatorPlus.MODID)
 public class PlayerLocatorPlus {
-    public static final String MODID = "playerlocatorplus";
+    public static final String MODID = "playerlocatorplusreforged";
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public static ResourceLocation rl(String path) {
